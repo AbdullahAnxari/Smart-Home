@@ -1,7 +1,7 @@
 # home_control_ui
 
 A new Flutter project.
-<img src="https://github.com/AbdullahAnxari/Smart-Home/assets/99377452/98c9558c-7b81-407c-b983-81fdd400b9ba" width="200" height="300">
+<img src="https://github.com/AbdullahAnxari/Smart-Home/assets/99377452/98c9558c-7b81-407c-b983-81fdd400b9ba" width="400" height="500">
 <img src="https://github.com/AbdullahAnxari/Smart-Home/assets/99377452/b5dedd33-1819-485d-9d96-a54059919eea" width="100" height="200">
 <img src="https://github.com/AbdullahAnxari/Smart-Home/assets/99377452/6d6ca016-e780-410c-8436-a669f167d364" width="100" height="200">
 <img src="https://github.com/AbdullahAnxari/Smart-Home/assets/99377452/22136fc6-467d-4a1b-8e48-2a7bdb524db6" width="100" height="200">
